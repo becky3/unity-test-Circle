@@ -1,11 +1,11 @@
-# unity-test-SinCurve
+# unity-test-Circle
 
-サインカーブ状にオブジェクトを生成するサンプルコードです。
+円状にオブジェクトを生成するサンプルコードです。
 
 ## 実行結果
 
-![実行結果](https://cdn-ak.f.st-hatena.com/images/fotolife/r/rhythmcan0/20180612/20180612232450.jpg)
+![実行結果](https://cdn-ak.f.st-hatena.com/images/fotolife/r/rhythmcan0/20180613/20180613233826.jpg)
 
 ## Editor
 
-![Editor](https://cdn-ak.f.st-hatena.com/images/fotolife/r/rhythmcan0/20180612/20180612232453.jpg)
+![Editor](https://cdn-ak.f.st-hatena.com/images/fotolife/r/rhythmcan0/20180613/20180613234044.jpg)
